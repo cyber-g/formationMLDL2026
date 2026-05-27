@@ -37,7 +37,7 @@ Une version de python supérieure à 3.13 est requise, pour vérifier votre vers
 
 ```shell
 python3 --version
-``
+```
 
 L'idéal est de créer un environement virtuel, pour éviter tout conflit avec d'autres installations de paquets.
 
@@ -50,7 +50,7 @@ Les paquets Python nécessaires à la formation sont listés dans le fichier `re
 
 ```shell
 pip install -r requirements.txt
-``
+```
 
 Les travaux pratiques se feront sur des notebook Python. Pour vérifier que les dépendances ont été correctement installées, lancer un `jupyterlab` depuis le répertoire `TPs` en tapant la commande
 
@@ -72,4 +72,4 @@ Les fichiers de données du 2ème jour sont à télécharger [ici](https://sdriv
 cd TPs 
 wget https://sdrive.cnrs.fr/public.php/dav/files/LLDbRWrbmAfRBkK/\?accept\=zip -O data.zip
 unzip data.zip
-``
+```
