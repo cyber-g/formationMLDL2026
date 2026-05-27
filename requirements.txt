@@ -1,0 +1,12 @@
+jupyterlab
+matplotlib
+numpy
+pandas
+requests
+scikit-learn
+scipy
+seaborn
+torch
+torchinfo
+torchvision
+tqdm
