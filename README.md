@@ -62,9 +62,12 @@ et exécuter le notebook `test.ipynb`.
 
 ## Matériel
 
-Les transparents des cours se trouvent dans le répertoire `Cours`.
+Les transparents des cours se trouveront dans le répertoire `Cours`.
 
-Les notebook pour les travaux pratiques se trouvent dans le répertoire `TPs`.
+Les notebook pour les travaux pratiques se trouveront dans le répertoire `TPs`.
+
+> [!IMPORTANT]  
+> Afin de garantir un démarrage fluide de la formation et d’éviter les ralentissements liés à des téléchargements simultanés le jour J, merci de télécharger l’ensemble des fichiers et ressources nécessaires en amont de la session.
 
 Les fichiers de données du 2ème jour sont à télécharger [ici](https://sdrive.cnrs.fr/s/LLDbRWrbmAfRBkK) et à copier dans le répertoire `TPs/data`. 
 
