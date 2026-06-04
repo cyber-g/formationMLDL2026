@@ -33,7 +33,9 @@ Les objectifs de la formation sont
 
 Il est demandé aux participants d'être équipés d'un ordinateur portable et il est fortement recommandé d'installer en avance les logiciels et outils nécessaires à la formation.
 
-Une version de python supérieure à 3.13 est requise, pour vérifier votre version : 
+Une connaissance de base en Python est indispensable.
+
+Une version de Python supérieure à 3.13 est requise. Pour vérifier votre version : 
 
 ```shell
 python3 --version
@@ -76,3 +78,33 @@ cd TPs
 wget https://sdrive.cnrs.fr/public.php/dav/files/LLDbRWrbmAfRBkK/\?accept\=zip -O data.zip
 unzip data.zip
 ```
+
+## Programme détaillé
+
+### Jour 1
+
+- Classification binaire
+- Régression logistique 
+- Entraînement du modèle
+- Performance du modèle
+- Overfitting, pénalisation et cross-validation
+- *Mise en pratique sur un cas concret : Adult Income* 
+
+### Jour 2
+
+- Arbres de décision
+- Bagging
+- Forêts aléatoires
+- Boosting
+- *Mise en pratique sur un cas concret : consommation électrique*
+
+### Jour 3
+
+- Réseaux de neurones
+- Forward propagation
+- Backward propagation
+- Optimisation SGD et minibatch
+- CNN
+- Pooling
+- RNN
+- *Mise en pratique sur un cas concret : MNIST et FashionMNIST*
