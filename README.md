@@ -97,7 +97,7 @@ unzip data.zip
 - Forêts aléatoires
 - Boosting
 - Recurrent Neural Networks -- RNN (LSTM)
-- TSFM - Time Series Foundation Models (`chronos`)
+- Time Series Foundation Models -- TSFM (`chronos`)
 - *Mise en pratique sur un cas concret : consommation électrique*
 
 ### Jour 3
