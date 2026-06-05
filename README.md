@@ -96,15 +96,16 @@ unzip data.zip
 - Bagging
 - Forêts aléatoires
 - Boosting
+- Recurrent Neural Networks -- RNN (LSTM)
+- TSFM - Time Series Foundation Models (`chronos`)
 - *Mise en pratique sur un cas concret : consommation électrique*
 
 ### Jour 3
 
 - Réseaux de neurones
-- Forward propagation
-- Backward propagation
+- Forward/backward propagation
 - Optimisation SGD et minibatch
-- CNN
+- Convolutional Neural Networks -- CNN
 - Pooling
-- RNN
+- Vision transformers
 - *Mise en pratique sur un cas concret : MNIST et FashionMNIST*
