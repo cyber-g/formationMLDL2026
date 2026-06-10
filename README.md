@@ -10,7 +10,7 @@ Cette [formation](https://cnrsformation.cnrs.fr/catalogue/formation/269/introduc
 
 Les cours se dérouleront 
 
-- de **9h00 à 17h30** du mercredi 10 au vendredi 12 juin 2026
+- de **9h00 à 17h00** du mercredi 10 au vendredi 12 juin 2026
 - en **salle 113, couloir 16-26**, au 4, place Jussieu, 75005
 - avec sessions théoriques suivies de travaux pratiques.
 
